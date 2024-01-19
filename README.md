@@ -6,4 +6,4 @@ Making this project, I learnt about props, passing props and react components.
 
 ## Preview
 
-[!Preview](./src/images/preview.png)
+(./src/images/preview.png)
